@@ -43,6 +43,9 @@ Muestra un menú para seleccionar el tipo de elemento a agregar.
 ### `agregarElemento(tipo)`
 Solicita al usuario ingresar el título del elemento y lo agrega a la colección.
 
-## Requisitos
+## Requisitos y pasos para levantar el proyecto
 - Node.js debe estar instalado para ejecutar la aplicación.
 - La aplicación utiliza el módulo `readline` de Node.js para la interacción con el usuario.
+- Despues de tener clonado el repositorio utilizar el comando:
+`npm install`
+- Por ultimo para levantar el proyecto utilizar el comando: `npm run dev`
